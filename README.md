@@ -1,4 +1,4 @@
-# Robinhood Trading Journal 📈🤖
+# Robinhood Trading Journal
 
 > A modern, high-performance, single-user AI trading journal that imports Robinhood CSV exports, derives round-trip trades using **FIFO lot matching**, visualizes performance analytics, and provides AI-powered behavioral coaching.
 
